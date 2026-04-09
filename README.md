@@ -1,5 +1,7 @@
 **English** | [中文](README_zh.md)
 
+**Hugging Face:** [TWT-RL](https://huggingface.co/Kunyang-YU/TWT-RL) · [TWT-SFT](https://huggingface.co/Kunyang-YU/TWT-SFT) · [TWT-Training (dataset)](https://huggingface.co/datasets/Kunyang-YU/TWT-Training)
+
 # Thinking with Tables (TWT)
 
 > **Thinking with Tables: Enhancing Multi-Modal Tabular Understanding via Neuro-Symbolic Reasoning**
