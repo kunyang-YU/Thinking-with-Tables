@@ -1,1 +1,0 @@
-{"_runtime":51,"_wandb":{"runtime":51},"profiling/Time taken: GRPOTrainer._move_model_to_vllm":0.5086030260426924,"_timestamp":1.7677845479762988e+09,"_step":1,"train/global_step":0,"profiling/Time taken: GRPOTrainer.generate":50.6364510540152}
