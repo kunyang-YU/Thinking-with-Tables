@@ -20,8 +20,7 @@ This README mainly describes **the inference pipeline and usage of the TWT model
 ### 1.1 Clone the Repository
 
 ```bash
-git clone https://github.com/<your-org>/TwT.git
-cd TwT
+git clone https://github.com/kunyang-YU/Thinking-with-Tables.git
 ```
 
 ### 1.2 Environment Setup & Dependency Installation
